@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 - 👨‍💻 All of my projects are available at [projects](https://github.com/AaryanGoyal01)
 <br>
-- 📄 Know about my experiences [portfolio](github.com/AaryanGoyal01/portfolio)
+- 📄 Know about my experiences [portfolio](https://github.com/AaryanGoyal01/portfolio)
 <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/aaryan--goyal/" target="blank"><img margin="50" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aaryan" height="30" width="40" /></a>
